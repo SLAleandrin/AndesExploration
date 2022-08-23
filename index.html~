@@ -7,12 +7,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-		<title>inWeb International</title>
+		<title>Andes Exploration</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="inWeb International &raquo; Feed" href="https://inwebinternational.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="inWeb International &raquo; Comments Feed" href="https://inwebinternational.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Andes Exploration &raquo; Feed" href="https://inwebinternational.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Andes Exploration &raquo; Comments Feed" href="https://inwebinternational.com/comments/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inwebinternational.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.1"}};
 /*! This file is auto-generated */
@@ -85,7 +85,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script type='text/javascript' src='https://inwebinternational.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="https://inwebinternational.com/wp-json/" /><link rel="alternate" type="application/json" href="https://inwebinternational.com/wp-json/wp/v2/pages/289" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://inwebinternational.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://inwebinternational.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 6.0.1" />
+<meta name="generator" content="Bluefish 2.2.12" />
 <link rel="canonical" href="https://inwebinternational.com/" />
 <link rel='shortlink' href='https://inwebinternational.com/' />
 <link rel="alternate" type="application/json+oembed" href="https://inwebinternational.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finwebinternational.com%2F" />
@@ -143,8 +143,8 @@ div#inv1, div#inv2, div#inv3, div#inv4, div#inv5 {
 		data-item-id="logo">
 	
 <div class="site-logo">
-	<a class="brand" href="https://inwebinternational.com/" title="inWeb International"
-			aria-label="inWeb International"><div class="title-with-logo"><img width="300" height="172" src="https://inwebinternational.com/wp-content/uploads/2021/10/cropped-inwebinternationallogofinal.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" /><div class="nv-title-tagline-wrap"></div></div></a></div>
+	<a class="brand" href="https://inwebinternational.com/" title="Andes Exploration"
+			aria-label="Andes Exploration"><div class="title-with-logo"><img width="300" height="172" src="https://inwebinternational.com/wp-content/uploads/2021/10/cropped-inwebinternationallogofinal.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" /><div class="nv-title-tagline-wrap"></div></div></a></div>
 
 	</div>
 
@@ -159,9 +159,9 @@ div#inv1, div#inv2, div#inv3, div#inv4, div#inv5 {
 <li id="menu-item-9823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9823"><a href="https://inwebinternational.com/nosotros/">Nosotros</a></li>
 <li id="menu-item-9790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9790"><a href="#"><span class="menu-item-title-wrap dd-title">Servicios</span><div tabindex="-1" class="caret-wrap 3"><span class="caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div></a>
 <ul class="sub-menu">
-	<li id="menu-item-9820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9820"><a href="https://inwebinternational.com/desarrollo-de-software-y-apps-a-la-medida/">Desarrollo de software y apps a la medida</a></li>
-	<li id="menu-item-9821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9821"><a href="https://inwebinternational.com/implementacion-de-software/">Implementación de software</a></li>
-	<li id="menu-item-9819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9819"><a href="https://inwebinternational.com/soporte-e-infraestructura-en-la-nube/">Soporte e infraestructura en la nube</a></li>
+	<li id="menu-item-9820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9820"><a href="https://inwebinternational.com/desarrollo-de-software-y-apps-a-la-medida/">Agregamos valor a su proyecto</a></li>
+	<li id="menu-item-9821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9821"><a href="https://inwebinternational.com/implementacion-de-software/">Implementación de planes de Exploración</a></li>
+	<li id="menu-item-9819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9819"><a href="https://inwebinternational.com/soporte-e-infraestructura-en-la-nube/">Soporte y apoyo logístico</a></li>
 </ul>
 </li>
 <li id="menu-item-9791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9791"><a href="#"><span class="menu-item-title-wrap dd-title">Productos</span><div tabindex="-1" class="caret-wrap 7"><span class="caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div></a>
@@ -242,8 +242,8 @@ div#inv1, div#inv2, div#inv3, div#inv4, div#inv5 {
 		data-item-id="logo">
 	
 <div class="site-logo">
-	<a class="brand" href="https://inwebinternational.com/" title="inWeb International"
-			aria-label="inWeb International"><div class="title-with-logo"><img width="300" height="172" src="https://inwebinternational.com/wp-content/uploads/2021/10/cropped-inwebinternationallogofinal.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" /><div class="nv-title-tagline-wrap"></div></div></a></div>
+	<a class="brand" href="https://inwebinternational.com/" title="Andes Exploration"
+			aria-label="Andes Exploration"><div class="title-with-logo"><img width="300" height="172" src="https://inwebinternational.com/wp-content/uploads/2021/10/cropped-inwebinternationallogofinal.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" /><div class="nv-title-tagline-wrap"></div></div></a></div>
 
 	</div>
 
@@ -331,9 +331,9 @@ div#inv1, div#inv2, div#inv3, div#inv4, div#inv5 {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9823"><a href="https://inwebinternational.com/nosotros/">Nosotros</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9790"><div class="wrap"><a href="#"><span class="menu-item-title-wrap dd-title">Servicios</span></a><button tabindex="0" type="button" class="caret-wrap navbar-toggle 3"><span class="caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></button></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9820"><a href="https://inwebinternational.com/desarrollo-de-software-y-apps-a-la-medida/">Desarrollo de software y apps a la medida</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9821"><a href="https://inwebinternational.com/implementacion-de-software/">Implementación de software</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9819"><a href="https://inwebinternational.com/soporte-e-infraestructura-en-la-nube/">Soporte e infraestructura en la nube</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9820"><a href="https://inwebinternational.com/desarrollo-de-software-y-apps-a-la-medida/">Agregamos valor a su proyecto</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9821"><a href="https://inwebinternational.com/implementacion-de-software/">Implementación de planes de Exploración</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9819"><a href="https://inwebinternational.com/soporte-e-infraestructura-en-la-nube/">Soporte y apoyo logístico</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9791"><div class="wrap"><a href="#"><span class="menu-item-title-wrap dd-title">Productos</span></a><button tabindex="0" type="button" class="caret-wrap navbar-toggle 7"><span class="caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></button></div>
@@ -410,8 +410,8 @@ div#inv1, div#inv2, div#inv3, div#inv4, div#inv5 {
 								<div class="elementor-element elementor-element-fe061bb elementor-widget elementor-widget-heading" data-id="fe061bb" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.7 - 03-07-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Creamos apps. <br>
-Desarrollo de software. <br>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Sabemos de Exploration. <br>
+Entendemos la Región <br>
 </h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-de61039 elementor-widget elementor-widget-premium-addon-button" data-id="de61039" data-element_type="widget" data-widget_type="premium-addon-button.default">
@@ -421,7 +421,7 @@ Desarrollo de software. <br>
 		<a class="premium-button premium-button-none premium-btn-lg premium-button-none" href="/desarrollo-de-software-y-apps-a-la-medida/">
 			<div class="premium-button-text-icon-wrapper">
 								<span >
-					¿Por qué inWeb International?				</span>
+					¿Por qué Andes Exploration?				</span>
 							</div>
 								</a>
 
@@ -480,8 +480,8 @@ Desarrollo de software. <br>
             
         </div>
             <div class="infobox-content">
-                            <h3 class="title">Desarrollo de software y apps a la medida</h3>
-                                                                        <p><p>Desarrollamos apps móviles y aplicaciones de software a la medida de tus necesidades. Trabajamos contigo desde el diseño de tu solución hasta la puesta en marcha.</p></p>
+                            <h3 class="title">Agregamos valor a su proyecto</h3>
+                                                                        <p><p>Gestionamos proyectos en todas las etapas atendiendo a todas las necesidades técnicas, administrativas y legales.</p></p>
                                                                             </div>
     </div>		</div>
 				</div>
@@ -500,8 +500,8 @@ Desarrollo de software. <br>
             
         </div>
             <div class="infobox-content">
-                            <h3 class="title">Implementación de software</h3>
-                                                                        <p><p>Implementación, integraciones, customización y desarrollo de componentes para soluciones de Software GLPI (ITSM), vTiger (CRM), WordPress y WordPress WooCommerce.</p></p>
+                            <h3 class="title">Implementación de planes de Exploración</h3>
+                                                                        <p><p>Cualquiera sea la etapa del proyecto, gerenciamos e implementamos planes de mapeo, muestreo, geofísica, sondajes y estimación de Recursos</p></p>
                                                                             </div>
     </div>		</div>
 				</div>
@@ -520,8 +520,8 @@ Desarrollo de software. <br>
             
         </div>
             <div class="infobox-content">
-                            <h3 class="title">Soporte e infraestructura en la nube</h3>
-                                                                        <p><p>Apoyamos a los equipos para que puedan construir, implementar y escalar aplicaciones en la nube de manera más rápida, eficiente y segura, poniendo a su disposición nuestra infraestructura.</p></p>
+                            <h3 class="title">Soporte y apoyo logístico</h3>
+                                                                        <p><p>Amplio conocimiento de la geografía de la región de las necesidades de nuestros clientes. Alta eficiencia comprobada durante mas de 20 años en el rubro.</p></p>
                                                                             </div>
     </div>		</div>
 				</div>
@@ -543,7 +543,7 @@ Desarrollo de software. <br>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-940375d elementor-widget elementor-widget-heading" data-id="940375d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">¿Cómo trabajamos en inWeb International?</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">¿Cómo trabajamos en Andes Exploration?</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9212228 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9212228" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -607,7 +607,7 @@ Desarrollo de software. <br>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-692c861 elementor-widget elementor-widget-text-editor" data-id="692c861" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>El equipo de inWeb International cuenta con años de experiencia implementando y customizando soluciones de software basadas en “Open Source”.</p><p>Para tener una comunicación y un equipo integrado contamos con las siguientes herramientas que nos ayudan a hacer nuestro trabajo de manera efectiva:</p>						</div>
+							<p>El equipo de Andes Exploration cuenta con mas de 20 años de experiencia en implementación y gestión de proyectos de exploración en todas las etapas en Latinamérica</p><p>Para tener una comunicación y un equipo integrado contamos con las siguientes herramientas que nos ayudan a hacer nuestro trabajo de manera efectiva:</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -631,7 +631,7 @@ Desarrollo de software. <br>
 				</div>
 				<div class="elementor-element elementor-element-0d924f0 elementor-widget elementor-widget-text-editor" data-id="0d924f0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>En inWeb International contamos con una gran variedad de productos para su organización.</p>						</div>
+							<p>En Andes Exploration contamos con una gran variedad de productos para su organización.</p>						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d8e65f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d8e65f4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -1020,8 +1020,8 @@ Desarrollo de software. <br>
 						Email					</span>
 				</h4>
 									<p class="elementor-icon-box-description">
-						info@inwebinternational.com<br>
-soporte@inwebinternational.com					</p>
+						fheit@andesexploration.com<br>
+lsastre@andesexploration.com.ar					</p>
 							</div>
 		</div>
 				</div>
@@ -1043,8 +1043,8 @@ soporte@inwebinternational.com					</p>
 						Teléfono					</span>
 				</h4>
 									<p class="elementor-icon-box-description">
-						+52 81 41 70 37 16<br>
-+52 81 19 01 58 19					</p>
+						+54 9 3875 33 1935<br>
++54 9 2644  57 0304					</p>
 							</div>
 		</div>
 				</div>
@@ -1066,7 +1066,7 @@ soporte@inwebinternational.com					</p>
 						Dirección					</span>
 				</h4>
 									<p class="elementor-icon-box-description">
-						Papagayo 540, Residencial San Jerónimo II, Monterrey, Nuevo León, México					</p>
+						Casa de Esparcimiento de Federico Heit, Vaqueros, Salta, Argentina					</p>
 							</div>
 		</div>
 				</div>
@@ -1085,7 +1085,7 @@ soporte@inwebinternational.com					</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b2cbf53 elementor-widget elementor-widget-text-editor" data-id="b2cbf53" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							© 2022 MPH DESARROLLOS COMPUTACIONALES S.A. DE C.V. 						</div>
+							© 2022 LS 						</div>
 				</div>
 					</div>
 		</div>
