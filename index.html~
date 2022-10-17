@@ -7,6 +7,7 @@ html, body, #wrapper {
        margin: 0;
        padding: 0;
        border: 0;
+       object-fit: cover;
     }
     #wrapper td {
        vertical-align: middle;
@@ -16,7 +17,7 @@ html, body, #wrapper {
 </head>
 <body>
         <div class="container-fluid">
-                <img src="Web.png" class="img-fluid" alt="Andes Exploration">
+                <img src="<img src="Web.png" alt="" /><img src="Web.png" alt="" />Web.png" class="img-fluid" alt="Andes Exploration">
         </div>
 </body>
 </html>
