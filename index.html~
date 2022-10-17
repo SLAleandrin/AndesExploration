@@ -8,6 +8,7 @@ html, body, img {
        padding: 0;
        border: 0;
        object-fit: contain;
+       object-fit: cover;
     }
 </style>
 </head>
