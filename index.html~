@@ -15,10 +15,8 @@ html, body, #wrapper {
 </style>
 </head>
 <body>
-   <table id="wrapper">
-      <tr>
-         <td><img src="Web.png" alt="" /></td>
-      </tr>
-   </table>
+        <div class="container-fluid">
+                <img src="hWeb.png" class="img-fluid" alt="Andes Exploration">
+        </div>
 </body>
 </html>
