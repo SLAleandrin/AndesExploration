@@ -16,7 +16,7 @@ html, body, #wrapper {
 </head>
 <body>
         <div class="container-fluid">
-                <img src="hWeb.png" class="img-fluid" alt="Andes Exploration">
+                <img src="Web.png" class="img-fluid" alt="Andes Exploration">
         </div>
 </body>
 </html>
