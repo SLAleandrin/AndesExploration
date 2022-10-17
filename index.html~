@@ -17,7 +17,7 @@ html, body, #wrapper {
 <body>
    <table id="wrapper">
       <tr>
-         <td><img src="https://github.com/SLAleandrin/AndesExploration/blob/main/assets/images/Web.png" alt="" /></td>
+         <td><img src="Web.png" alt="" /></td>
       </tr>
    </table>
 </body>
