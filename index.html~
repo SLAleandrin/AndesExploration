@@ -13,7 +13,7 @@ html, body, img {
 </head>
 <body>
         <div class="container-fluid">
-                <img src="Web.png" class="img-fluid" alt="Andes Exploration">
+                <img src="Web.png" alt="Andes Exploration">
         </div>
 </body>
 </html>
