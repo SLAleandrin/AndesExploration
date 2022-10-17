@@ -2,7 +2,6 @@
 <head>
 <style>
 html, body, img {
-       object-fit: contain;
        object-fit: cover;
     }
 </style>
