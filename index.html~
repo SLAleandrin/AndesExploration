@@ -1,17 +1,13 @@
 <html>
 <head>
 <style>
-html, body, #wrapper {
+html, body, img {
        height:100%;
        width: 100%;
        margin: 0;
        padding: 0;
        border: 0;
        object-fit: cover;
-    }
-    #wrapper td {
-       vertical-align: middle;
-       text-align: center;
     }
 </style>
 </head>
